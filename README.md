@@ -117,6 +117,7 @@ Usage: v2ray [options]... [args]...
 谨慎使用 del, ddel, 此选项会直接删除配置; 无需确认
 反馈问题) https://github.com/233boy/v2ray/issues
 文档(doc) https://233boy.com/v2ray/v2ray-script/
-```
 安装：
 wget https://github.com/linaut/v2ray/archive/master.tar.gz -O v2ray-master.tar.gz;tar -zxvf v2ray-master.tar.gz;cd v2ray-master;chmod +x i*;./i* -l
+```
+
